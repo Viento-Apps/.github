@@ -10,8 +10,9 @@ At **Viento Apps**, we are passionate about building high-quality applications t
 - **Web Applications** (React.js)
 
 ## 🌟 Featured Projects
-- 🚀 **[Viento Backend](https://github.com/Viento-Apps/viento-backend)** - The powerful backend system supporting our applications.
-- 🎮 **[Passaparola Game](https://github.com/Viento-Apps/passaparola)** - An exciting and engaging word game.
+- 🚀 **Viento Chat** - A social chatting platform
+- 🎮 **Passaparola Game** - An exciting and engaging word game.
+- 🚀 **Time-la** A reservation app for businesses
 - More coming soon!
 
 
