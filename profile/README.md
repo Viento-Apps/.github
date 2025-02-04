@@ -9,6 +9,7 @@ At **Viento Apps**, we strive to create innovative and scalable solutions that m
 - **Mobile Development**: Building cross-platform and native applications.
 - **Backend Systems**: Scalable and efficient backend services.
 - **Web Development**: High-performance web applications.
+- **Intensive Testing**: We apply manual and automated tests on our projects.
 
 ## 🛠 Tech Stack
 We use a variety of technologies to power our applications, including but not limited to:
