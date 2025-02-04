@@ -17,7 +17,6 @@ At **Viento Apps**, we are passionate about building high-quality applications t
 
 ### 📬 Contact Us
 - Email: [contact@vientoapps.com](mailto:viento.app@gmail.com)
-- Twitter: [@VientoApps](https://twitter.com/VientoApps)
 
 ---
 ### 🌬️ **Viento Apps – Crafting the Digital Breeze**
